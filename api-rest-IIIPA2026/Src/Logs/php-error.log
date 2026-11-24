@@ -1,0 +1,303 @@
+[16-Nov-2026 08:45:10 America/Tegucigalpa] Conexión a la base de datos exitosa
+[16-Nov-2026 08:45:33 America/Tegucigalpa] Conexión a la base de datos exitosa
+[16-Nov-2026 08:46:36 America/Tegucigalpa] Conexión a la base de datos exitosa
+[18-Nov-2026 08:27:21 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(11): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:28:06 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:28:43 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:29:14 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:30:42 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:31:16 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:31:19 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:31:20 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:31:20 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:31:20 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:32:35 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(13): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:33:56 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('/users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:41:03 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:30 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:31 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:31 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:31 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:31 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$data in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:52 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:44:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$method in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:45:10 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:46:05 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:30
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController::UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 30
+[18-Nov-2026 08:49:09 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Access to undeclared static property App\Controllers\UserController::$route in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php:29
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController->UserSave('users')
+#1 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 29
+[18-Nov-2026 08:52:32 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:52:32 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:52:32 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:52:32 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:53:05 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:53:05 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:53:05 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:53:05 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 34
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 34
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 34
+[18-Nov-2026 08:55:15 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 34
+[18-Nov-2026 08:55:29 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:29 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:29 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:29 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:38 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:38 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:38 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:38 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:39 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:40 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:40 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:40 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:40 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:53 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:53 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:53 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:55:53 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:08 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:09 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:17 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:17 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:17 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:17 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:22 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:22 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:22 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:22 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:23 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:23 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:23 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:23 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:24 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:27 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:27 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:27 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:27 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:28 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:29 America/Tegucigalpa] PHP Notice:  Accessing static property App\Controllers\UserController::$validar_texto as non static in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:29 America/Tegucigalpa] PHP Warning:  Undefined property: App\Controllers\UserController::$validar_texto in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:29 America/Tegucigalpa] PHP Deprecated:  preg_match(): Passing null to parameter #1 ($pattern) of type string is deprecated in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[18-Nov-2026 08:57:29 America/Tegucigalpa] PHP Warning:  preg_match(): Empty regular expression in C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php on line 33
+[19-Nov-2026 08:36:21 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "APP\DB\Sql" not found in C:\laragon\www\api-rest-IIIPA2026\Src\Models\UserModel.php:36
+Stack trace:
+#0 C:\laragon\www\api-rest-IIIPA2026\Src\Controllers\UserController.php(46): App\Models\UserModel::UserSave()
+#1 C:\laragon\www\api-rest-IIIPA2026\Src\Routes\users.php(15): App\Controllers\UserController->UserSave('users')
+#2 C:\laragon\www\api-rest-IIIPA2026\Public\index.php(24): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\api-rest-IIIPA2026\Src\Models\UserModel.php on line 36
+[19-Nov-2026 08:44:17 America/Tegucigalpa] Conexión a la base de datos exitosa
+[19-Nov-2026 08:44:33 America/Tegucigalpa] Conexión a la base de datos exitosa
+[19-Nov-2026 09:03:15 America/Tegucigalpa] Conexión a la base de datos exitosa
+[19-Nov-2026 09:03:45 America/Tegucigalpa] Conexión a la base de datos exitosa
+[19-Nov-2026 09:03:45 America/Tegucigalpa] Conexión a la base de datos exitosa
